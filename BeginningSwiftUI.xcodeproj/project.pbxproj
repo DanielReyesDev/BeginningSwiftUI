@@ -14,6 +14,7 @@
 		92E1B1D222A7FE5F006C8D58 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 92E1B1D122A7FE5F006C8D58 /* Preview Assets.xcassets */; };
 		92E1B1D522A7FE5F006C8D58 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 92E1B1D322A7FE5F006C8D58 /* LaunchScreen.storyboard */; };
 		92E1B1DD22A802C9006C8D58 /* CircleImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 92E1B1DC22A802C9006C8D58 /* CircleImage.swift */; };
+		92E1B1DF22A8079D006C8D58 /* MapView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 92E1B1DE22A8079D006C8D58 /* MapView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		92E1B1D422A7FE5F006C8D58 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		92E1B1D622A7FE5F006C8D58 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		92E1B1DC22A802C9006C8D58 /* CircleImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleImage.swift; sourceTree = "<group>"; };
+		92E1B1DE22A8079D006C8D58 /* MapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				92E1B1C822A7FE59006C8D58 /* AppDelegate.swift */,
 				92E1B1CA22A7FE59006C8D58 /* SceneDelegate.swift */,
 				92E1B1CC22A7FE59006C8D58 /* ContentView.swift */,
+				92E1B1DE22A8079D006C8D58 /* MapView.swift */,
 				92E1B1DC22A802C9006C8D58 /* CircleImage.swift */,
 				92E1B1CE22A7FE5F006C8D58 /* Assets.xcassets */,
 				92E1B1D322A7FE5F006C8D58 /* LaunchScreen.storyboard */,
@@ -151,6 +154,7 @@
 			files = (
 				92E1B1C922A7FE59006C8D58 /* AppDelegate.swift in Sources */,
 				92E1B1DD22A802C9006C8D58 /* CircleImage.swift in Sources */,
+				92E1B1DF22A8079D006C8D58 /* MapView.swift in Sources */,
 				92E1B1CB22A7FE59006C8D58 /* SceneDelegate.swift in Sources */,
 				92E1B1CD22A7FE59006C8D58 /* ContentView.swift in Sources */,
 			);
